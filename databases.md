@@ -16,5 +16,6 @@ The source-code to access SQLite from python can be found [here](https://github.
 High level description the program  
 1. Get the connection of the database and store it in `connection` variable  
 2. Get the cursor object from the connection object. Cursor object is used to execute SQL queries.  
-3. Close the connection  
+3. Execute insert, update, select as per requirements.
+4. Close the connection.  
 
