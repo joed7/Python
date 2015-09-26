@@ -53,3 +53,23 @@ Some examples of numpy arrays and their attribumtes are as follows:
 * `rank2Array.T` return transpose of an array
 * `np.array([ [1,2,3],[4,5,6],[7,8,9],[10,11,12] ]).flatten()` returns all the elements in a single dimensional array
 * `np.arange(12).reshape(4,3)` coverts one array into array of another size
+
+
+###Matrix arthithmetic
+Refer to the [Matrix arithmetic example](https://github.com/joed7/fose_python/blob/master/matrix-numpy.py) for python source code
+
+Numpy module offers various methods to perform matrix arithmetic operations:  
+For two numpy arrays `x` and `y`
+* Matrix addition `np.add(x, y)`
+* Matrix subtraction `np.subtract(x, y)`
+* Matrix multiplication `np.multiply(x, y)`
+* Matrix division `np.divide(x, y)`  
+The command above operate element-wise on arrays.
+
+Some other useful commands are
+* Matrix dot product also matrix multiplication `np.dot(x,y)`
+* Matrix sum of each column `np.sum(x,axis=0)`
+* Matrix sum of each row `np.sum(x,axis=1)`
+* Matrix sum of all element `np.sum(x)`
+
+__Note__ In the exmaples shown in the [code](https://github.com/joed7/fose_python/blob/master/matrix-numpy.py), all of the matrices have the same shape. That does not necessarily have to be the case. Numpy has a concept of __Broadcasting__ which allows arithmetic operations between two matrix of different shape even they satisfy broadcasting criterion.
