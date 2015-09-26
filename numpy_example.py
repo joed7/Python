@@ -26,7 +26,6 @@ print rank2Array.ndim    #prints 2
 print rank1Array.shape #print (3,)
 print rank2Array.shape #print (2,3)
 
-
 '''Array slicing
 '''
 array = np.array([[1,2,3],[4,5,6],[7,8,9]])
@@ -43,3 +42,15 @@ print array[:,2] #prints the third column [3,6,9]
 #Transpose of a numpy array
 array = np.array([[1,2],[3,4],[5,6]]) #array of shape 3,2
 print array.T #prints transpose of array, having shape 2,3
+
+
+
+''' Flattening and Reshaping
+'''
+x = np.array([ [1,2,3],[4,5,6],[7,8,9],[10,11,12] ])
+
+print x.flatten() #prints [ 1,  2,  3,  4,  5,  6,  7,  8,  9, 10, 11, 12]
+
+y = x.flatten()
+
+print y.reshape(4,3) #converts y back to a (4,3) array
