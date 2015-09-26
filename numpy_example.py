@@ -29,16 +29,16 @@ print rank2Array.shape #print (2,3)
 
 '''Array slicing
 '''
-rank3Array = np.array([[1,2,3],[4,5,6],[7,8,9]])
+array = np.array([[1,2,3],[4,5,6],[7,8,9]])
 
 #print ith row of a numpy array
 
-print rank3Array[0] #prints the first row [1,2,3]
-print rank3Array[2] #prints the third row [7,8,9]
+print array[0] #prints the first row [1,2,3]
+print array[2] #prints the third row [7,8,9]
 
 #print ith column of a numpy array
-print rank3Array[:,0] #prints the first column [1,4,7]
-print rank3Array[:,2] #prints the third column [3,6,9]
+print array[:,0] #prints the first column [1,4,7]
+print array[:,2] #prints the third column [3,6,9]
 
 #Transpose of a numpy array
 array = np.array([[1,2],[3,4],[5,6]]) #array of shape 3,2
