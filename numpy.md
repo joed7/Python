@@ -8,3 +8,11 @@ It adds support to Python for large, multi-dimensional arrays and matrices. Besi
 Arrays are the central component of the module NumPy. A numpy array is a grid of values, all of the same type, and is indexed by a tuple of nonnegative integers. The number of dimensions is the __rank__ of the array; the __shape__ of an array is a tuple of integers giving the size of the array along each dimension.
 
 Refer to the [NumPy Array Example](https://github.com/joed7/fose_python/blob/master/numpy_example.py) for Numpy Array Syntax.
+
+* `np.zeros((2,2))` generates a 2*2 array of zeroes
+* `rank2Array = np.array([[1,2,3],[4,5,6]])` generates a 2*3 array 
+* `rank2Array.ndim` returns the number of dimensions of a numpy array, 2 in this case
+* `rank2Array.shape`returns the size of array along each dimension
+* `rank2Array.T` return transpose of an array
+* `np.array([ [1,2,3],[4,5,6],[7,8,9],[10,11,12] ]).flatten()` returns all the elements in a single dimensional array
+* `np.arange(12).reshape(4,3)` coverts one array into array of another size
