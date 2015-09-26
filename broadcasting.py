@@ -30,3 +30,14 @@ print x + y  #[[ 2,  4,  6],
              #[ 5,  7,  9],
              #[ 8, 10, 12],
              #[11, 13, 15]]
+
+#Example where broadcasting fails
+x = np.arange(4) 
+y = np.ones(5)
+
+print x.shape #print (4,)
+print y.shape #print (5,)
+
+#This won't due to mismatch in shape, operands could not be broadcast together with shapes (4,) (5,) 
+#print x +y  
+
