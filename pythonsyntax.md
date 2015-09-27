@@ -39,5 +39,12 @@ Python has five standard data types −
 
     Refer to [list examples](https://github.com/joed7/fose_python/blob/master/list-demo.py) for python source code.
 
-* Tuple
+* __Tuple__  
+  A tuple is an immutable list, i.e. the content of a tuple cannot be changed once it has been created. A tuple is defined similar to lists, except that the set of elements is enclosed in parentheses instead of square brackets. The rules for indices are the same as for lists. Sinces tupes are immutable, they can be used as keys in dictionaies, while lists can't.
+  ```
+  t = ('example','of','tuple')
+  print t[0] #returns the first item of the tuple, 'example' in this case
+  #t[0] = 'someValue' # Will throw an error
+  ```
+  
 * Dictionary
