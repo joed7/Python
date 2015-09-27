@@ -5,6 +5,8 @@ str = 'string demo!'
 
 print str          # Prints complete string
 
+print len(str)     #Prints string length
+
 #Example of string indexing
 print str[0]       # Prints first character of the string
 
