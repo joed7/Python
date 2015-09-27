@@ -12,3 +12,5 @@ print list1[1:3]     # Prints elements starting from 2nd till 3rd
 print list1[2:]      # Prints elements starting from 3rd element
 
 print list1 + list2 # Prints concatenated lists
+
+print 'dep1' in list1 #checking if element exist in list
