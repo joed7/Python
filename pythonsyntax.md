@@ -25,14 +25,19 @@ Python has five standard data types −
   * Complex numbers like 3 + 4j
   
 * __String__  
-  Strings in Python are contiguous set of characters surrounded by either single quotes or double quotes, for e.g. `'python'`   or `"Java"`. Strings are zero indexed in python i.e. the first character is at zero index. A character of a string can be accessed by putting the index after the string name in square brackets, 
+  Strings in Python are contiguous set of characters surrounded by either single quotes or double quotes, for e.g. `'python'`   or `"Java"`.Strings are zero indexed in python i.e. the first character is at zero index. A character of a string can be accessed by putting the index after the string name in square brackets, 
   ```
   str="Hello World"
   str[0] #returns H
   str[6] #returns W
   ```
+  String are immutable and trying to change the value of a string will throw an error.  
   Refer to [string manipulation](https://github.com/joed7/fose_python/blob/master/string-demo.py) for python source code.
 
-* __List__
+* __List__  
+  A list contains items separated by commas and enclosed within square brackets `lst=['Comp. Sc, Chemical Eng., Mech Eng']`. Lists are similar to arrays of programming languages like C, C++ or Java, but Python lists are by far more flexible than "classical" arrays. For example items in a list need not all have the same type. Furthermore lists size is not fixed and can grow in a program run, while in C the size of an array has to be fixed at compile time. Similar to strings, they are zero indexed and value of a item can be accessed in a similar manner.
+
+    Refer to [list examples](https://github.com/joed7/fose_python/blob/master/list-demo.py) for python source code.
+
 * Tuple
 * Dictionary
