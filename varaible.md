@@ -1,7 +1,5 @@
 
-#Python syntax and datatypes
-
-###__Python Variables__  
+#Python variable and datatypes
 
 Variables are reserved memory locations to store values. This means that when we create a variable you reserve some space in memory. Depending on the data type of a variable, the interpreter allocates memory and decides what can be stored in the reserved memory. Therefore, by assigning different data types to variables, you can store integers, decimals or characters in these variables.        
 Values can be assigned to variables with equal sign `=`.  
