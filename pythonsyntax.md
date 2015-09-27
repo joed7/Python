@@ -47,4 +47,13 @@ Python has five standard data types −
   #t[0] = 'someValue' # Will throw an error
   ```
   
-* Dictionary
+* __Dictionary__  
+  Python's dictionaries store key-value pairs. A key in a dictionary is associated with a values and items are accessed via the keys they are associated with. While any data-type can be used as the value of dictionary, only immutable data-types can be used as keys i.e. list, dictionary can't be used a keys.  
+
+  ```
+  example_dict= {1:'one',2:'two',3:'three'} # dictionary storing numbers as keys and their string representation as values
+  print example_dict[1] # returns value for key 1, throws a keys error if it does not exist
+  print 2 in example_dict # checks if a key exists in dictionary
+  ```
+  Refer to [dictionary examples](https://github.com/joed7/fose_python/blob/master/dict-demo.py) for python source code.
+
