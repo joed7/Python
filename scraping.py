@@ -27,3 +27,6 @@ for row in all_rows:
     else:
         pass
         #print row    
+        
+fobj1.close()
+fobj2.close()
