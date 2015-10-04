@@ -21,7 +21,25 @@ def fib(n):
         map1[n]=val
         return val
 ```        
-We can import this module in the python shell or in another python script using the statement `import fibonacci` and call the fib method `fibonacci.fib(10)`. While importing a module, the name of the namespace can be changed, for e.g. the above statements can be changed to `import fibonacci as fb`and `fb.fib(10)`.
+We can import this module in the python shell or in another python script using the statement `import fibonacci` and call the fib method `fibonacci.fib(10)`. While importing a module, the name of the namespace can be changed, for e.g. the above statements can be changed to `import fibonacci as fb` and `fb.fib(10)`.
+
+Consider another scenario where we have a bunch of constants we have to use throughout our project. Rather than defining them in each file, we can create a module `proj-constants.py` and import the module in the file where we need the constants, via `import proj-constatnts` and `print proj-constatnts.conference`.
+
+```
+'''
+Python script to define constants 
+'''
+
+conference = 'Conference'.lower()
+division = 'Division'.lower()
+founded = 'Founded'.lower()
+arena = 'Home arena'.lower()
+city = 'City'.lower()
+manager = 'General manager'.lower()
+coach = 'Head coach'.lower()
+cups = 'Stanley Cups'.lower()
+
+```
 
 Python offer an array of in-built modules, some of the most useful ones are as follows:
 
