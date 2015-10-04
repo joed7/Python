@@ -59,7 +59,7 @@ Pip is a tool for installing or managing Python packages. According to wikipaedi
 
 `pip is a recursive acronym that can stand for either "Pip Installs Packages" or "Pip Installs Python"`
 
-For installation instructions, refer to [pip documentation](https://pip.pypa.io/en/stable/installing/#install-pip).
+For Pip installation instructions, refer to [pip documentation](https://pip.pypa.io/en/stable/installing/#install-pip) and for usage help refer to [documentation](https://docs.python.org/2.7/installing/).
 
 [Previous](https://github.com/joed7/fose_python/blob/master/syntax.md)  |  [Home](https://github.com/joed7/Python/blob/master/home.md)  |  [Next](https://github.com/joed7/fose_python/blob/master/filemangement.md)
 
