@@ -53,4 +53,13 @@ Besides in-built modules, outside modules can be installed separately and import
 
 In order to view help for a python module, `help('moduleName')` can be used in the python command shell, while the command `dir('moduleName')` displays the attributes and methods of a module.  
 
+__Installing External Module Using Pip__
+
+Pip is a tool for installing or managing Python packages. According to wikipaedia
+
+`pip is a recursive acronym that can stand for either "Pip Installs Packages" or "Pip Installs Python"`
+
+For installation instructions, refer to [pip documentation](https://pip.pypa.io/en/stable/installing/#install-pip).
+
 [Previous](https://github.com/joed7/fose_python/blob/master/syntax.md)  |  [Home](https://github.com/joed7/Python/blob/master/home.md)  |  [Next](https://github.com/joed7/fose_python/blob/master/filemangement.md)
+
