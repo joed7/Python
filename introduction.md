@@ -30,3 +30,5 @@ __Hello words in python__
 * Python code is extendable i.e. we can add low-level modules to the Python interpreter which allows our code to be more efficient.
 
 Python is used for web development through frameworks like Django and flask. Python also extensive application in the field of machine learning and data mining via module like NumPy(for matrix manipulation), Pandas(for data analysis), BeautifulSoup(for HTML parsing) etc. 
+
+[Home](https://github.com/joed7/Python)  |  [Next](https://github.com/joed7/fose_python/blob/master/varaible.md)
