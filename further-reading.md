@@ -8,3 +8,6 @@ This presentation gives a high level overview of python and its modules. For mor
 * [Code Academy](https://www.codecademy.com/tracks/python)
 * [Python course](http://www.python-course.eu/course.php)
 * [Python module of the week](https://pymotw.com/2/contents.html)
+
+[Previous](https://github.com/joed7/fose_python/blob/master/code-example.md)  |  [Home](https://github.com/joed7/Python)  |  [Next](https://github.com/joed7/Python/blob/master/conclusion.md)
+

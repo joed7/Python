@@ -16,4 +16,4 @@ Table of Contents
   * [Web Scraping](https://github.com/joed7/fose_python/blob/master/scraping.md)
 * [Code Examples](https://github.com/joed7/fose_python/blob/master/code-example.md)
 * [Further Reading](https://github.com/joed7/Python/blob/master/further-reading.md)
-* Conclusion
+* [Conclusion](https://github.com/joed7/Python/blob/master/conclusion.md)
