@@ -71,4 +71,6 @@ for i  in text:
 
 ```        
 
+Refer to the [regex-demo](https://github.com/joed7/Python/blob/master/python-regex.py) for python source code.
+
 [Previous](https://github.com/joed7/fose_python/blob/master/filemangement.md)  |  [Home](https://github.com/joed7/Python/blob/master/home.md)  |  [Next](https://github.com/joed7/fose_python/blob/master/databases.md)
