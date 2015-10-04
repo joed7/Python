@@ -1,6 +1,6 @@
 ## Python
 
-This is the repository for the presentation on **Python** as part of the [Foundation of Software Engineering] (http://www.cs.colorado.edu/~kena/classes/5828/f15/) course. This presentation gives a general overview of the the core concepts of the programming language along with application in various domains of software engineerinng. 
+This is the presentation on **Python** as part of the [Foundation of Software Engineering] (http://www.cs.colorado.edu/~kena/classes/5828/f15/) course. This presentation gives a general overview of the the core concepts of the programming language along with applications in various domains of software engineerinng. 
 
 Table of Contents
 
