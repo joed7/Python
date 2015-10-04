@@ -1,5 +1,5 @@
 
-#Python variable and datatypes
+#Python variable and data types
 
 Variables are reserved memory locations to store values. This means that when we create a variable you reserve some space in memory. Depending on the data type of a variable, the interpreter allocates memory and decides what can be stored in the reserved memory. Therefore, by assigning different data types to variables, you can store integers, decimals or characters in these variables.        
 Values can be assigned to variables with equal sign `=`.  
@@ -12,7 +12,7 @@ Values can be assigned to variables with equal sign `=`.
 The operand to the left of the = operator is the name of the variable and the operand to the right of the = operator is the value stored in the variable
 
   __Data Type__  
-The data stored in memory can be of many types. For example, a person's name is a string, his age is a number, all the languages he knows a lsitetc. Python has various standard data types that are used to define the operations possible on them and the storage method for each of them.  
+The data stored in memory can be of many types. For example, a person's name is a string, his age is a number, all the languages he knows is a list. Python has various standard data types that are used to define the operations possible on them and the storage method for each of them.  
 
 Python has five standard data types −
 * __Numbers__   
@@ -33,12 +33,12 @@ Python has five standard data types −
   Refer to [string manipulation](https://github.com/joed7/fose_python/blob/master/string-demo.py) for python source code.
 
 * __List__  
-  A list contains items separated by commas and enclosed within square brackets `lst=['Comp. Sc, Chemical Eng., Mech Eng']`. Lists are similar to arrays of programming languages like C, C++ or Java, but Python lists are by far more flexible than "classical" arrays. For example items in a list need not all have the same type. Furthermore lists size is not fixed and can grow in a program run, while in C the size of an array has to be fixed at compile time. Similar to strings, they are zero indexed and value of a item can be accessed in a similar manner.
+  A list contains items separated by commas and enclosed within square brackets `lst=['Comp. Sc, Chemical Eng., Mech Eng']`. Lists are similar to arrays of programming languages like C, C++ or Java, but Python lists are by far more flexible than "classical" arrays. For example items in a list need not all have the same type. Furthermore a list size is not fixed and can grow in a program run, while in C the size of an array has to be fixed at compile time. Similar to strings, they are zero indexed and value of a item can be accessed in a similar manner.
 
     Refer to [list examples](https://github.com/joed7/fose_python/blob/master/list-demo.py) for python source code.
 
 * __Tuple__  
-  A tuple is an immutable list, i.e. the content of a tuple cannot be changed once it has been created. A tuple is defined similar to lists, except that the set of elements is enclosed in parentheses instead of square brackets. The rules for indices are the same as for lists. Sinces tupes are immutable, they can be used as keys in dictionaies, while lists can't.
+  A tuple is an immutable list, i.e. the content of a tuple cannot be changed once it has been created. A tuple is defined similar to lists, except that the set of elements is enclosed in parentheses instead of square brackets. The rules for indices are the same as for lists. Sinces tuples are immutable, they can be used as keys in dictionaries, while lists can't.
   ```
   t = ('example','of','tuple')
   print t[0] #returns the first item of the tuple, 'example' in this case
