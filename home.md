@@ -11,6 +11,7 @@ Table of Contents
 * [Python Modules](https://github.com/joed7/fose_python/blob/master/modules.md)
 * [Python File I/O](https://github.com/joed7/fose_python/blob/master/filemangement.md)
 * Python Application
+  * [Text Processing](https://github.com/joed7/Python/blob/master/text-processing.md)
   * [Databases](https://github.com/joed7/fose_python/blob/master/databases.md)
   * [Scientific Computing](https://github.com/joed7/fose_python/blob/master/numpy.md)
   * [Web Scraping](https://github.com/joed7/fose_python/blob/master/scraping.md)

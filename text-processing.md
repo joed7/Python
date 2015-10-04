@@ -70,3 +70,5 @@ for i  in text:
         print "Pincode for the city "+ str(match.group(1))+" is "+str(match.group(2))
 
 ```        
+
+[Previous](https://github.com/joed7/fose_python/blob/master/filemangement.md)  |  [Home](https://github.com/joed7/Python/blob/master/home.md)  |  [Next](https://github.com/joed7/fose_python/blob/master/databases.md)
