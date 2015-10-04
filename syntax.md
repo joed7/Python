@@ -9,12 +9,12 @@ Here is a visualization for indentation:
 
 __Conditonal statement__
 
-Conditional statements are key in any programming langague. At various places, in our code, we have to check for certain conditions and proceed according to those conditions, For e.g. checking for the value of a variable, checking size of a list, checking if certain key exists in the dictionary etc.The simplest form is the if statement, which has the genaral form:  
+Conditional statements are key in any programming language. At various places, in our code, we have to check for certain conditions and proceed according to those conditions, For e.g. checking for the value of a variable, checking size of a list, checking if certain key exists in the dictionary etc.The simplest form is the if statement, which has the general form:  
 ```
 if BOOLEAN EXPRESSION:
     STATEMENTS
 ```
-Some key points regarding the above psuedo-code of if statement:
+Some key points regarding the above pseudo-code of if statement:
 * Colon(:) separates the header of the compound statement from the body.
 * The line after the colon must be indented. 
 * All lines indented the same amount after the colon will be executed whenever the BOOLEAN_EXPRESSION is true.
@@ -33,23 +33,23 @@ else:
 ```    
 
 __Loops__  
-Generally, statements are executed sequentially, However, loops allow us to execute statements in a repeated manners subject to certain conditions. Here is a flow chart illustrating the loop work-flow
+Generally, statements are executed sequentially, However, loops allow us to execute statements in a repeated manners subject to certain conditions. Here is a flowchart illustrating the loop work-flow
 
 ![](http://www.python-course.eu/images/while_loop_1.png)
 
 Python has two constructs for loops:
 * While loop  
 ```
-#Example of a while loop printing the statment 10 times.
+#Example of a while loop printing the statement 10 times.
 i=0
 while i < 10:
     print("This is the "+str(i+1)+" iteration" )
     i=i+1
 ```    
-In the example above, we initialize a variable to zero, then we check the loop condition(whether it is less than 10); If it is, we execute and the print statment and increment it by one and check the condition again. When condition does not hold true, it comes out of the loop.
+In the example above, we initialize a variable to zero, then we check the loop condition(whether it is less than 10); If it is, we execute the print statement and increment it by one and check the condition again. When condition does not hold true, it comes out of the loop.
 
 * For loop  
-  Python uses iterator based construct for `for` loop. It steps through the items in any ordered sequence list, i.e. string, lists, tuples, the keys of dictionaries and other iterables. The python sytax for `for` loop looks like this
+  Python uses iterator based construct for `for` loop. It steps through the items in any ordered sequence list, i.e. string, lists, tuples, the keys of dictionaries and other iterables. The python syntax for `for` loop looks like this
 ```
 for <variable> in <sequence>:
 	<statements>
@@ -74,11 +74,11 @@ def functionname( parameters ):
    statements
    return [expression]
 ```   
-Function definition begins with the keyword `def` followed by functionname and a optional parameter list separated by commas. Inside the function body, we write python statments followed by a option return statement.
+Function definition begins with the keyword `def` followed by functionname and an optional parameter list separated by commas. Inside the function body, we write python statements followed by a option return statement.
 
 ```
 def fac(n):
-    ''' function to computer factorial of a given number
+    ''' function to compute factorial of a given number
     '''
     if n < 0:
         return -1
