@@ -1,4 +1,4 @@
-# Python
+## Python
 
 This is the repository for the presentation on **Python** as part of the [Foundation of Software Engineering] (http://www.cs.colorado.edu/~kena/classes/5828/f15/) course. This presentation gives a general overview of the the core concepts of the programming language along with application in various domains of software engineerinng. 
 
@@ -14,6 +14,6 @@ Table of Contents
   * [Databases](https://github.com/joed7/fose_python/blob/master/databases.md)
   * [Scientific Computing](https://github.com/joed7/fose_python/blob/master/numpy.md)
   * [Web Scraping](https://github.com/joed7/fose_python/blob/master/scraping.md)
-* Coding Examples
+* [Code Examples](https://github.com/joed7/fose_python/blob/master/code-example.md)
 * Further Reading
 * Conclusion
