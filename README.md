@@ -15,5 +15,5 @@ Table of Contents
   * [Scientific Computing](https://github.com/joed7/fose_python/blob/master/numpy.md)
   * [Web Scraping](https://github.com/joed7/fose_python/blob/master/scraping.md)
 * [Code Examples](https://github.com/joed7/fose_python/blob/master/code-example.md)
-* Further Reading
+* [Further Reading](https://github.com/joed7/Python/blob/master/further-reading.md)
 * Conclusion
