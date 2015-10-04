@@ -53,4 +53,4 @@ Besides in-built modules, outside modules can be installed separately and import
 
 In order to view help for a python module, `help('moduleName')` can be used in the python command shell, while the command `dir('moduleName')` displays the attributes and methods of a module.  
 
-[Previous](https://github.com/joed7/fose_python/blob/master/syntax.md)  |  [Home](https://github.com/joed7/Python)  |  [Next](https://github.com/joed7/fose_python/blob/master/filemangement.md)
+[Previous](https://github.com/joed7/fose_python/blob/master/syntax.md)  |  [Home](https://github.com/joed7/Python/blob/master/home.md)  |  [Next](https://github.com/joed7/fose_python/blob/master/filemangement.md)

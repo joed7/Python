@@ -34,4 +34,4 @@ extracting what you need.
 
 Refer to [Scraping Example](https://github.com/joed7/fose_python/blob/master/scraping.py) for an example of the modules above.
 
-[Previous](https://github.com/joed7/fose_python/blob/master/numpy.md)  |  [Home](https://github.com/joed7/Python)  |  [Next](https://github.com/joed7/fose_python/blob/master/code-example.md)
+[Previous](https://github.com/joed7/fose_python/blob/master/numpy.md)  |  [Home](https://github.com/joed7/Python/blob/master/home.md)  |  [Next](https://github.com/joed7/fose_python/blob/master/code-example.md)

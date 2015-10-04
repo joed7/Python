@@ -54,4 +54,4 @@ Python has five standard data types −
   ```
   Refer to [dictionary examples](https://github.com/joed7/fose_python/blob/master/dict-demo.py) for python source code.
 
-[Previous](https://github.com/joed7/fose_python/blob/master/introduction.md)  |  [Home](https://github.com/joed7/Python)  |  [Next](https://github.com/joed7/fose_python/blob/master/syntax.md)
+[Previous](https://github.com/joed7/fose_python/blob/master/introduction.md)  |  [Home](https://github.com/joed7/Python/blob/master/home.md)  |  [Next](https://github.com/joed7/fose_python/blob/master/syntax.md)

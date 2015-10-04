@@ -14,4 +14,4 @@ This page serves as the repository for all the coding examples used in this pres
   * [Matrix arithmatic using Numpy](https://github.com/joed7/fose_python/blob/master/matrix-numpy.py)
   * [Broadcasting in numpy](https://github.com/joed7/fose_python/blob/master/broadcasting.py)
   
-[Previous](https://github.com/joed7/fose_python/blob/master/scraping.md)  |  [Home](https://github.com/joed7/Python)  |  [Next](https://github.com/joed7/Python/blob/master/further-reading.md)  
+[Previous](https://github.com/joed7/fose_python/blob/master/scraping.md)  |  [Home](https://github.com/joed7/Python/blob/master/home.md)  |  [Next](https://github.com/joed7/Python/blob/master/further-reading.md)  
