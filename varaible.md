@@ -1,5 +1,5 @@
 
-#Python variable and data types
+#Python variables and data types
 
 Variables are reserved memory locations to store values. This means that when we create a variable you reserve some space in memory. Depending on the data type of a variable, the interpreter allocates memory and decides what can be stored in the reserved memory. Therefore, by assigning different data types to variables, you can store integers, decimals or characters in these variables.        
 Values can be assigned to variables with equal sign `=`.  
@@ -29,8 +29,7 @@ Python has five standard data types −
   str[0] #returns H
   str[6] #returns W
   ```
-  String are immutable and trying to change the value of a string will throw an error.  
-  Refer to [string manipulation](https://github.com/joed7/fose_python/blob/master/string-demo.py) for python source code.
+  String are immutable and trying to change the value of a string will throw an error. Refer to [string manipulation](https://github.com/joed7/fose_python/blob/master/string-demo.py) for python source code.
 
 * __List__  
   A list contains items separated by commas and enclosed within square brackets `lst=['Comp. Sc, Chemical Eng., Mech Eng']`. Lists are similar to arrays of programming languages like C, C++ or Java, but Python lists are by far more flexible than "classical" arrays. For example items in a list need not all have the same type. Furthermore a list size is not fixed and can grow in a program run, while in C the size of an array has to be fixed at compile time. Similar to strings, they are zero indexed and value of a item can be accessed in a similar manner.
