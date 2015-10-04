@@ -12,3 +12,5 @@ Upon getting file object, it can be used for reading or writing. Some common fun
 * `fobj.write('text')` -- write the context text to the file.
 
 Source-code for File I/O can be found [here](https://github.com/joed7/fose_python/blob/master/wordcount.py). The python script reads the text of a file, computes the number of words, lines, characters in the text and saves it in a output file.
+
+[Previous](https://github.com/joed7/fose_python/blob/master/modules.md)  |  [Home](https://github.com/joed7/Python)  |  [Next](https://github.com/joed7/fose_python/blob/master/databases.md)

@@ -109,3 +109,4 @@ Here is an example multiplying a scalar quantity to a matrice with and without b
   ``` 
 In the first method, without broadcasting, we did element-wise multiplication and created a column vector of shape(3,) to perform the operation. On the other hand, with broadcasting, we just multiplied the array by a scalar quantity and numpy performed broadcasting internally. Numpy is smart enough to use the original scalar value without actually making copies, so that broadcasting operations are as memory and computationally efficient as possible.
 
+[Previous](https://github.com/joed7/fose_python/blob/master/databases.md)  |  [Home](https://github.com/joed7/Python)  |  [Next](https://github.com/joed7/fose_python/blob/master/scraping.md)

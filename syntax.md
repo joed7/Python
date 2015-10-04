@@ -91,3 +91,5 @@ def fac(n):
     return f
 ```    
 Above is a example of a fuction which computes factorial. It expects one parameter as argument the number n, it does the computation and returns the computed value. 
+
+[Previous](https://github.com/joed7/fose_python/blob/master/varaible.md)  |  [Home](https://github.com/joed7/Python)  |  [Next](https://github.com/joed7/fose_python/blob/master/modules.md)
