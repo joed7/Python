@@ -9,6 +9,7 @@ This page serves as the repository for all the coding examples used in this pres
 * [Python script to connect to MySQL](https://github.com/joed7/fose_python/blob/master/python-mysql.py)
 * [Python script to connect to SQLite](https://github.com/joed7/fose_python/blob/master/python-sqlite.py)
 * [Python script for web scraping](https://github.com/joed7/fose_python/blob/master/scraping.py)
+* [Python script demonstraing text-processing using regular expressions](https://github.com/joed7/Python/blob/master/python-regex.py)
 * Numpy Examples
   * [Python script demonstrating Numpy Arrays](https://github.com/joed7/fose_python/blob/master/numpy_example.py)
   * [Matrix arithmatic using Numpy](https://github.com/joed7/fose_python/blob/master/matrix-numpy.py)
