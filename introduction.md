@@ -31,4 +31,10 @@ __Hello words in python__
 
 Python is used for web development through frameworks like Django and flask. Python also extensive application in the field of machine learning and data mining via module like NumPy(for matrix manipulation), Pandas(for data analysis), BeautifulSoup(for HTML parsing) etc. 
 
+__Installation__
+
+__Python__  
+Refer to the [documentation](https://wiki.python.org/moin/BeginnersGuide/Download) for Python installation instructions on Mac, Windows and Ubuntu.
+
+
 [Home](https://github.com/joed7/Python/blob/master/home.md)  |  [Next](https://github.com/joed7/fose_python/blob/master/varaible.md)
