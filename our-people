@@ -1,0 +1,1243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<!-- 
+
+
+       CCCCCCCCCCCCCCC
+     CCCCCCCCCCCCCCCCCCC
+     CCC             CCC
+     CCC
+     CCC   UUUUU             UUUUU
+     CCC   UUUUU             UUUUU
+     CCC     UUU     CCC     UUU
+     CCCCCCCCCUCCCCCCCCC     UUU
+       CCCCCCUCUCCCCCCC      UUU
+             UUU             UUU
+             UUU             UUU
+             UUUUUUUUUUUUUUUUUUU
+               UUUUUUUUUUUUUUU
+
+     University of Colorado
+     Boulder                   
+
+
+                      
+
+
+ -->
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://www.colorado.edu/cs/profiles/cu_fit/themes/cu_bootstrap/images/cu_favicon.png" type="image/png" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+  <title>Computer Science | CU-Boulder</title>
+  <link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_GGp0p_Yqhy0IHm39wbI6z72L9O-dK1Ihj2iBfeNqreY.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_253DA4Aiz7ZOIHmzqMoTkiveOavrluU07_aSjeZq8h8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_xFRrvEuGbS2yj86_KTxl82mEwk6qqV_mK0x2ksbTxUw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_eIkYZx6MLNzGFYT-8E1L8qPdWs13IOK0be51_O9-kQY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_ve_wnCN9hbGxhQI7Y5u_6UKMODYKICWb4JfaUP4P_rw.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_aJ3JLw4i1l7lLvDix3Lo88AaSf2BFBsdTkT18OsyDwQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_KpHsFsHL5G3x9EUJr5pMqQKsGs4fdCXEGrY6HhOgLHA.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_E0fYwqVWMiE6XTA8lHvaEZslurCbOg9oYASNB4WmPI4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_OpZh_24wfP1xNIRHZzntophkO_VOkJ5I3ZAOTFcEe_w.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_dt3kMPa_p-xJoLZKGET2-FYTBBorTaCl7OnNqfX4aVs.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_BgNYF3Bz0zN913-MhYn3F-ve9Bzu5z-ktzGMV7AihyY.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_Dclp6uNcWRJ1aB07FPpwBhBrVmKkiyXH5WcD0OYhBUk.css" media="print" />
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/sites/default/files/css/css_hIsus8gcIstwuKEghmVFP9p49CicFGOJgXhkYz9DyTQ.css" media="all" />
+
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="http://www.colorado.edu/cs/profiles/cs/themes/computer_s/styles/ie.css?ncoip1" media="all" />
+<![endif]-->
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#branding h1 a,#branding #logo a{background-image:url(http://www.colorado.edu/cs/sites/default/files/cs-logo.gif);}
+
+/*]]>*/-->
+</style>
+  <script type="text/javascript" src="http://www.colorado.edu/cs/sites/default/files/js/js_3jHghlMLrjr9xXAC0JufqSSch3oAbkZstSqYdc4uuck.js"></script>
+<script type="text/javascript" src="http://www.colorado.edu/cs/sites/default/files/js/js_o3n7O4uXL3LBG2W3uEitEfuCwuP_wfqXV2Gz-QRTyXY.js"></script>
+<script type="text/javascript" src="http://www.colorado.edu/cs/sites/default/files/js/js_VLULXD8FpJraK8kaKDHHerLIriRiXMoanmvVp9wF0aI.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-25752450-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.colorado.edu/cs/sites/default/files/js/js_Q1fQitZLOXFUFfgq9dbZs4LTTV6_QPIW-VCR8Ju7beU.js"></script>
+<script type="text/javascript" src="http://www.colorado.edu/cs/sites/default/files/js/js_Qgd5868-5oW555ZOA_z1RhsDJhFTkTDvcPIoDdy9x2c.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/cs\/","pathPrefix":"","ajaxPageState":{"theme":"computer_s","theme_token":"QKsUxlTcf-LS_NNtWT9XHuVzxZTbjC7ZRd2g4KEEhAE","js":{"profiles\/cu_fit\/modules\/features\/cu_search\/cu_search.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.accordion.min.js":1,"misc\/form.js":1,"profiles\/cu_fit\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/cu_fit\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/cu_fit\/modules\/contrib\/context_accordion\/context_accordion.js":1,"profiles\/cu_fit\/modules\/custom\/cu_alerts\/js\/cu_alerts.js":1,"profiles\/cu_fit\/modules\/contrib\/files_undo_remove\/files_undo_remove.js":1,"profiles\/cu_fit\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"profiles\/cs\/modules\/features\/block_styles\/block_styles.js":1,"profiles\/cu_fit\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"0":1,"misc\/collapse.js":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/js\/photo-captions.js":1,"profiles\/cs\/themes\/computer_s\/js\/init.js":1},"css":{"profiles\/cu_fit\/themes\/ninesixty\/styles\/framework\/reset.css":1,"profiles\/cu_fit\/themes\/ninesixty\/styles\/framework\/text.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/styles\/framework\/reset.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/styles\/framework\/text.css":1,"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.accordion.css":1,"profiles\/cu_fit\/modules\/custom\/cu_alerts\/css\/cu_alerts.css":1,"profiles\/cs\/modules\/custom\/cu_give_buttons\/styles\/give-button.css":1,"profiles\/cu_fit\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/cu_fit\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/cu_fit\/modules\/contrib\/flexslider\/assets\/css\/flexslider_img.css":1,"profiles\/cu_fit\/modules\/contrib\/google_appliance\/theme\/google_appliance.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"profiles\/cu_fit\/modules\/contrib\/video_filter\/video_filter.css":1,"profiles\/cu_fit\/modules\/contrib\/views\/css\/views.css":1,"profiles\/cu_fit\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/cu_fit\/modules\/contrib\/context_accordion\/context_accordion.css":1,"profiles\/cu_fit\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/cu_fit\/modules\/contrib\/files_undo_remove\/files_undo_remove.css":1,"profiles\/cu_fit\/modules\/contrib\/follow\/icons\/paulrobertlloyd32.css":1,"profiles\/cu_fit\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"profiles\/cs\/modules\/features\/block_styles\/block_styles.css":1,"profiles\/cu_fit\/modules\/features\/cu_article_lists\/cu_article_lists.css":1,"profiles\/cu_fit\/modules\/features\/cu_events_calendar_block\/events.css":1,"profiles\/cu_fit\/modules\/features\/cu_events_calendar_block\/events-grid.css":1,"profiles\/cu_fit\/modules\/features\/cu_facebook_activity\/cu_facebook_activity.css":1,"profiles\/cu_fit\/modules\/features\/cu_search\/cu_search.css":1,"profiles\/cs\/modules\/custom\/cu_site_info\/site_info.css":1,"profiles\/cu_fit\/modules\/features\/frequently_asked_questions\/faq.css":1,"profiles\/cs\/modules\/custom\/grid_size_blocks\/grid_size_blocks.css":1,"profiles\/cu_fit\/modules\/custom\/link_icons\/css\/link_icons.css":1,"profiles\/cu_fit\/themes\/ninesixty\/styles\/framework\/960.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/styles\/styles.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/styles\/images.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/styles\/quicktabs-styles.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/styles\/forms.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/styles\/users.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/styles\/framework\/debug.css":1,"profiles\/cs\/themes\/computer_s\/styles\/framework\/960.css":1,"profiles\/cs\/themes\/computer_s\/styles\/common.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/styles\/single-page.css":1,"profiles\/cs\/themes\/computer_s\/styles\/style.css":1,"profiles\/cs\/themes\/computer_s\/styles\/blocks.css":1,"profiles\/cs\/themes\/computer_s\/styles\/fonts.css":1,"profiles\/cs\/themes\/computer_s\/styles\/layout-fixed.css":1,"profiles\/cs\/themes\/computer_s\/styles\/navigation.css":1,"profiles\/cs\/themes\/computer_s\/styles\/skin.css":1,"profiles\/cs\/themes\/computer_s\/styles\/jquery.theme.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/styles\/print.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/jquery-ui\/css\/jquery.theme.css":1,"profiles\/cs\/themes\/computer_s\/fonts\/font-set-1.css":1,"profiles\/cu_fit\/themes\/cu_bootstrap\/fonts\/font-set-1.css":1,"profiles\/cs\/themes\/computer_s\/styles\/ie.css":1,"0":1}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="not-front not-logged-in one-sidebar sidebar-first page-our-people banner-dark" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper">
+  <div id="page" class="clearfix">
+    <div id="header-wrapper">
+      <div id="site-header" class="clearfix container-12">
+        <div id="branding" class="grid-8">
+            	        <div id="logo"><a href="/cs/">Computer Science</a></div>
+  	              </div><!-- /#branding -->
+        <div id="search" class="grid-4 clearfix">
+                        <div class="region region-search-box">
+    <div id="block-google-appliance-ga-block-search-form" class=" block block-google-appliance search_box-block-0">
+  
+  <div class="content">
+    <form action="/cs/our-people" method="post" id="google-appliance-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search Google Appliance</h2>
+    <div class="cu-search clearfix"><div class="form-item form-type-textfield form-item-search-keys">
+  <label class="element-invisible" for="edit-search-keys">Enter the terms you wish to search for. </label>
+ <input type="text" id="edit-search-keys" name="search_keys" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div></div><div class="culinks"><strong>CU:</strong> <a href="/">Home</a> &bull; <a href="/atoz">A to Z</a> &bull; <a href="/campusmap">Campus Map</a></div><input type="hidden" name="form_build_id" value="form-WkJR6RDUG8p0MXfj3k7e36qSq7as7cJ23nl6DA6rNyc" />
+<input type="hidden" name="form_id" value="google_appliance_block_form" />
+  
+</div>
+</div></form>  </div>
+</div>  </div>
+                  </div><!-- /#search -->
+      </div><!-- /#site-header -->
+
+           </div> <!-- /#secondary-menu -->
+    </div>
+
+
+          <div id="main-menu-wrapper" class="clearfix">
+        <div id="navigation" class="container-12 clearfix">
+                              <h2 class="element-invisible">Main menu</h2><ul id="main-menu" class="main-menu inline"><li class="menu-1403 first"><a href="/cs/" id="home-link">Home</a></li>
+<li class="menu-1083 active-trail active"><a href="/cs/our-people" title="" class="active-trail active">Our People</a></li>
+<li class="menu-1279"><a href="/cs/research">Research</a></li>
+<li class="menu-1281"><a href="/cs/prospective-students">Prospective Students</a></li>
+<li class="menu-1307"><a href="/cs/current-students">Current Students</a></li>
+<li class="menu-1365 last"><a href="/cs/computer-science-course-archive">Courses</a></li>
+</ul>        </div>
+      </div><!-- /#main-menu-wrapper -->
+    
+    
+    <div id="main-wrapper" class="column-2-left">
+     <div id="comp-graphic">
+      <div id="main" class="clearfix container-12">
+
+        <div id="alerts">
+                  </div>
+
+        
+                
+
+
+          	    <div id="content" class="clearfix  grid-8 push-4">
+
+          
+          <div id="main-content" class="region clearfix">
+
+                                      
+              
+              
+              
+                                      <div class="region region-content">
+    <div id="block-system-main" class=" block block-system content-block-0">
+  
+  <div class="content">
+    <div class="view view-our-people-by-job-type view-id-our_people_by_job_type view-display-id-page_1 view-dom-id-de312e81f361f8865ce9682dd86a595b">
+        
+      <div class="view-filters">
+      <form action="/cs/our-people" method="get" id="views-exposed-form-our-people-by-job-type-page-1" accept-charset="UTF-8"><div><div class="views-exposed-form">
+  <div class="views-exposed-widgets clearfix">
+          <div id="edit-field-person-type-tid-wrapper" class="views-exposed-widget views-widget-filter-field_person_type_tid">
+                  <label for="edit-field-person-type-tid">
+            Filter:          </label>
+                        <div class="views-widget">
+          <div class="form-item form-type-select form-item-field-person-type-tid">
+ <select id="edit-field-person-type-tid" name="field_person_type_tid" class="form-select"><option value="All" selected="selected">- All -</option><option value="1">Faculty</option><option value="3">Affiliated Faculty</option><option value="5">Adjunct Faculty</option><option value="7">Adjoint Faculty</option><option value="9">Faculty Emeriti</option><option value="77">Lecturers</option><option value="11">Administrative Staff</option><option value="13">Computing Staff</option><option value="15">Research Staff</option></select>
+</div>
+        </div>
+              </div>
+                    <div class="views-exposed-widget views-submit-button">
+      <input type="submit" id="edit-submit-our-people-by-job-type" name="" value="Apply" class="form-submit" />    </div>
+      </div>
+</div>
+</div></form>    </div>
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-3"  summary="This is a list of our People. The columns provide their contact information is listed from left to right.">
+        <thead>
+      <tr>
+                  <th class="views-field views-field-name" >
+            Name          </th>
+                  <th class="views-field views-field-field-office-address" >
+            Office          </th>
+                  <th class="views-field views-field-nothing" >
+            Contact          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/emad5542"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Emily</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adams</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Communications Specialist</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECAD 144          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:EmilyAdams@Colorado.EDU">EmilyAdams@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-4166</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/kena"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Kenneth</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Anderson</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor </div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            DLC 170M          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:kena@cs.Colorado.EDU">kena@cs.Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492‐6003</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/atkinsol"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Bobbie</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Atkinson</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Grant Administrator</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 723          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:bobbie.atkinson@colorado.edu">bobbie.atkinson@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-1503</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/jbk"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">John</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Bennett</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor </div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:jkb@colorado.edu">jkb@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-315‐0044</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/jrblack"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">John</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Black</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 627          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:john.black@colorado.edu">john.black@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-0573</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/elbo5410"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Elizabeth</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Boese</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Instructor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 733          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Elizabeth.Boese@Colorado.EDU">Elizabeth.Boese@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-5172</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/joyi3611"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jordan</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Boyd-Graber</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            111B ECCS          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Jordan.Boyd.Graber@Colorado.EDU">Jordan.Boyd.Graber@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-5066</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/lizb"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Elizabeth</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Bradley</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 747          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Elizabeth.Bradley@Colorado.EDU">Elizabeth.Bradley@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-5355</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/jeka2967"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jed</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Brown</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 626          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:jed@jedbrown.org">jed@jedbrown.org</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-1592</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/timxb"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Timothy</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Brown</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor, Department of Electrical, Computer and Energy Engineering</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 256          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:timxb@colorado.edu">timxb@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-1630</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/jbrubaker"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jed</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Brubaker</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor of Information Science</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:jedbrubaker@gmail.com">jedbrubaker@gmail.com</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/richard"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Richard</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Byrd</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 620          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:richard.byrd@colorado.edu">richard.byrd@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-8014</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/cai"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Xiao-Chuan</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Cai</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 622          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:xiao-chuan.cai@colorado.edu">xiao-chuan.cai@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-3746</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/pace9311"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Pavol</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Cerny</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor, Department of Electical, Computer and Energy Engineering</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 349          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Pavol.Cerny@colorado.edu">Pavol.Cerny@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-2572</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/bec"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Bor‐Yuh Evan</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Chang</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 621          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:evan.chang@colorado.edu">evan.chang@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-8894</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/ronglian"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Rongliang</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Chen</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professional Research Assistant</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECCS 121          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:rongliang.chen@colorado.edu">rongliang.chen@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even"></div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/lich1539"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lijun</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Chen</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 335          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Lijun.Chen@Colorado.EDU">Lijun.Chen@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-4384</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/aacl0007"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Aaron</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Clauset</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 743          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Aaron.Clauset@Colorado.EDU">Aaron.Clauset@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-6643</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/colunga"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Eliana</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Colunga</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor, Department of Psychology</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            MUEN D447B Department of Psychology          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:eliana.colunga@colorado.edu">eliana.colunga@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-4282</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/ncorrell"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Nikolaus</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Correll</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 520          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:nikolaus.correll@colorado.edu">nikolaus.correll@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-2233</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/dowellde"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Robin</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dowell-Deen</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor, Department of Molecular, Cellular and Developmental Biology</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            PORT B160A Department of Molecular, Cellular, and Developmental Biology          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:robin.dowell@colorado.edu">robin.dowell@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-8204</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/haleden"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Harold</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Eden</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Research Associate</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            DLC 170H          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:harold.eden@colorado.edu">harold.eden@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-7104</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/andrzej"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Andrzej</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Ehrenfeucht</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Distinguished Professor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:andrzej.ehrenfeucht@colorado.edu">andrzej.ehrenfeucht@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/eisenbea"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Ann</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Eisenberg</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Assistant Professor (University of Colorado Boulder)</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:ann.eisenberg@colorado.edu">ann.eisenberg@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-735-6042</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/duck"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Michael</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Eisenberg</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 736          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:michael.eisenberg@colorado.edu">michael.eisenberg@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-8091</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/skip"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Clarence</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Ellis</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:skip@colorado.edu">skip@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/yaen4684"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Yasko</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Endo</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Research Support Assistant</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 824          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:yasko.endo@colorado.edu">yasko.endo@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-7852</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/feldj"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jessica</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Feld</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professional Research Assistant</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 820          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:jessica.feld@colorado.edu">jessica.feld@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-7391</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/cfiesler"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Casey</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Fiesler</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:c.fiesler@gmail.com">c.fiesler@gmail.com</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/gerhard"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Gerhard</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Fischer</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Director, Center for Lifelong Learning and Design (L3D), Professor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 737          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:gerhard.fischer@colorado.edu">gerhard.fischer@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-1502</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/ifleming"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Ioana</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Fleming</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Instructor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:ioana.fleming@colorado.edu">ioana.fleming@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/fosdickl"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lloyd</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Fosdick</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:lloyd.fosdick@colorado.edu">lloyd.fosdick@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/frew"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Eric</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Frew</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor, Aerospace Engineering Sciences</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECAE 181          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:frew@colorado.edu">frew@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-735-1285</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/rfrongillo"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Rafael M.</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Frongillo</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECCS 111A          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:rafael.frongillo@colorado.edu">rafael.frongillo@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-7773</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/hal"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Harold</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Gabow</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:harold.gabow@colorado.edu">harold.gabow@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/debra"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Debra</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Goldberg</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 734          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:debra@Colorado.EDU">debra@Colorado.EDU</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/magr2277"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mark D.</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Gross</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor and Director, ATLAS Institute</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ATLAS 213          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:mdgross@Colorado.EDU">mdgross@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-8668</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/gruchall"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Kenny</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Gruchalla</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Assistant Professor (National Renewable Energy Laboratory)</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            National Renewable Energy Laboratory 1617 Cole Blvd.          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:kenny.gruchalla@colorado.edu">kenny.gruchalla@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-275-3713</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/grunwald"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Dirk</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Grunwald</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor, Director of Undergraduate Studies and Associate Chair</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECCR 1B50D          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:dirk.grunwald@Colorado.EDU">dirk.grunwald@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-0452</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/saha2618"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Sangtae</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Ha</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 312          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Sangtae.Ha@Colorado.EDU">Sangtae.Ha@Colorado.EDU</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/mhammer"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Matthew</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Hammer</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 527          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:matthew.hammer@colorado.edu">matthew.hammer@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-4591</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/rhan"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Richard</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Han</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECCR 1B05F          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:richard.han@colorado.edu">richard.han@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-0914</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/thha0714"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Thomas</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Hauser</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Associate Professor (University of Colorado)</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:thomas.hauser@colorado.edu">thomas.hauser@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-735-3400</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/hoenigmr"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Rhonda </div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Hoenigman </div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Instructor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 738          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:rhonda.hoenigman@colorado.edu">rhonda.hoenigman@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-0084</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/llhunter"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lawrence</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Hunter</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor, Computational Bioscience Program</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            P18-6101 Computational Bioscience Program Mail Stop 8303          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:larry.hunter@ucdenver.edu">larry.hunter@ucdenver.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-724-3574</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/amja7994"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Amy</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jarboe</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Research Grant Administrator</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 720          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Amy.Jarboe@Colorado.EDU">Amy.Jarboe@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-3760</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/jessup"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Elizabeth</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Jessup</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 625          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:elizabeth.jessup@Colorado.EDU">elizabeth.jessup@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-0211</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/shka5735"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Shaun</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Kane</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            DLC 173A          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:shaun.kane@colorado.edu">shaun.kane@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-735-7209</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/erke9581"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Eric</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Keller</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor, Department of Electrical, Computer and Energy Engineering</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 351          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:eric.keller@colorado.edu">eric.keller@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-0125</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/joke4446"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">John</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Kelly</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Business Assistant</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 717          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:John.Kelly@Colorado.EDU">John.Kelly@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-7514</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/roger"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Roger</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">King</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 749          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:roger.king@colorado.edu">roger.king@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-437-7419</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/rob"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Rob</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Knight</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor, Department of Chemistry &amp; Biochemistry and BioFrontiers Institute</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            JSCBB A418          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:rob.knight@colorado.edu">rob.knight@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-1984</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/evla7201"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Eva</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lacy</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Academic Advisor - B.A.</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 732          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Eva.Lacy@Colorado.EDU">Eva.Lacy@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-5590</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/clayton"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Clayton</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lewis</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 524          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:clayton.lewis@colorado.edu">clayton.lewis@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-6657</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/lv"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Qin</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lv</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor and Co-Graduate Director</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECCR 1B05C          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:qin.lv@colorado.edu">qin.lv@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-8821</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/main"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Michael</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Main</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:michael.main@colorado.edu">michael.main@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/martin"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">James H.</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Martin</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor and Chair</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 726          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:james.martin@colorado.edu">james.martin@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-3552</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/mathewt"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Tarek</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mathew</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor (University of Colorado Boulder)</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:tarek.mathew@colorado.edu">tarek.mathew@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">415-876-5424</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/mcbryan"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Oliver</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">McBryan</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:oliver.mcbryan@colorado.edu">oliver.mcbryan@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/mcdowel"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Lesley</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">McDowell</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Academic Advisor - B.S.</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 725          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:lesley.mcdowell@Colorado.EDU">lesley.mcdowell@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-6362</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/fmiller"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Frank</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Miller</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senior Instructor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:frank.miller@colorado.edu">frank.miller@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/mishras"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Shivakant</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mishra</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor </div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECCR 1B05G          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:shivakaht.mishra@colorado.edu">shivakaht.mishra@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-4686</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/mamo0797"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Matthew</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Monaco</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">System Administrator</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECCS 112B          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Matthew.Monaco@Colorado.EDU">Matthew.Monaco@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">973-464-4267</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/scmorris"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Stephanie</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Morris</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Finance Manager and Business Coordinator</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 722          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:stephanie.morris@Colorado.EDU">stephanie.morris@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-6101</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/michaelmozer"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Michael</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Mozer</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 741          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:michael.mozer@colorado.edu">michael.mozer@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/evi"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Evi</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Nemeth</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor Attendant Rank Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:evi.nemeth@colorado.edu">evi.nemeth@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/nutt"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Gary</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Nutt</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:gary.nutt@colorado.edu">gary.nutt@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/rickd"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Rick</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Osborne</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senior Instructor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 731           </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Richard.M.Osborne@colorado.edu">Richard.M.Osborne@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-9623</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/palen"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Leysia</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Palen</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            DLC 170A          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:leysia.palen@colorado.edu">leysia.palen@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-3902</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/mpalmer"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Martha</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Palmer</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor, Department of Linguistics and Professor, Computer Science</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            Hellems          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:martha.palmer@colorado.edu">martha.palmer@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-1300</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/mpaul"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Michael</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Paul</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor of Information Science </div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:mpaul39@gmail.com">mpaul39@gmail.com</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/phillict"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Caleb</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Phillips</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Assistant Professor (National Renewable Energy Laboratory)</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            National Renewable Energy Laboratory           </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:caleb.phillips@colorado.edu">caleb.phillips@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">503.891.4985</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/ralex"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Alexander</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Repenning</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Research Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 826          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:ralex@colorado.edu">ralex@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-1349</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/rozenber"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Grzegorz</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Rozenberg</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Professor (Leiden University)</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            Leiden University Leiden Institute for Advanced Computer Science (LIACS)          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:g.rozenberg@liacs.leidenuniv.nl">g.rozenberg@liacs.leidenuniv.nl</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">(+31)71-5-27</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/maresc"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Carrie</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Sadler</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Student Services and Curriculum Coordinator</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 727          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:carrie.sadler@Colorado.EDU">carrie.sadler@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303 492-6774</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/sanders"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Bruce</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Sanders</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senior Instructor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:bruce.sanders@colorado.edu">bruce.sanders@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/srirams"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Sriram</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Sankaranarayanan</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor and Co-Graduate Director</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 624          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:srirams@Colorado.EDU">srirams@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-6580</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/bobby"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Robert</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Schnabel</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:robert.schnabel@colorado.edu">robert.schnabel@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/vlakkies"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Willem</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Schreüder</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Adjunct Assistant Professor (Principia Mathematica, Inc.)</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            Principia Mathematica, Inc.          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:vlakkies@Colorado.EDU">vlakkies@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-716-3573</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/bshapiro"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Ben</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Shapiro</div></div></div>
+</a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:ben.shapiro@colorado.edu">ben.shapiro@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/shrestha"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Rajshree</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Shrestha</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Graduate Program Advisor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 721          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Rajshree.Shrestha@Colorado.EDU">Rajshree.Shrestha@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-6361</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/gasi6462"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Gabe</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Sibley</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECCR 1B05B          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:GSibley@Colorado.EDU">GSibley@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-2961</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/sicker"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Douglas</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Sicker</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor - On Leave at CMU</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:douglas.sicker@colorado.edu">douglas.sicker@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/ksiek"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Katie</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Siek</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor Adjunct</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:ksiek@imap.iu.edu">ksiek@imap.iu.edu</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/just0377"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Judy</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Stafford</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senior Project Director, Director of Undergraduate Studies and Associate Chair for the Practice</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 735          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Judith.Stafford@Colorado.EDU">Judith.Stafford@Colorado.EDU</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-1970</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/sumner"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Tamara</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Sumner</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Associate Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:tamara.sumner@colorado.edu">tamara.sumner@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-735-4469</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/dszafir"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Danielle</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Szafir</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor of Information Science </div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:dalbers@cs.wisc.edu">dalbers@cs.wisc.edu</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/djszafir"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Daniel</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Szafir</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ATLAS 225D           </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:daniel.szafir@colorado.edu">daniel.szafir@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-735-7892</div></div></div>          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/tufo"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Henry</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Tufo</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            ECOT 623          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:henry.tufo@colorado.edu">henry.tufo@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-2771</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/svoida"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Stephen</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Voida</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor of Information Science </div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:Stephen.Voida@colorado.edu">Stephen.Voida@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/avoida"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Amy</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Voida</div></div></div>
+</a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:amy.voida@colorado.edu">amy.voida@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/waite"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">William</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Waite</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Professor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:william.waite@colorado.edu">william.waite@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/whw"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Wayne</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Ward</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Research Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            Center for Computational Language and Education Research          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:wayne.ward@colorado.edu">wayne.ward@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-938-2583</div></div></div>          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/karl"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Karl</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Winklmann</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Senior Instructor Emeritus</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:karl.winklmann@colorado.edu">karl.winklmann@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/cy"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Chao</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Yang</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Research Associate</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+                      </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:chao.yang@colorado.edu">chao.yang@colorado.edu</a>
+          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-name" >
+            <a href="/cs/users/peye9704"><div class="field field-name-field-first-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Tom</div></div></div> <div class="field field-name-field-last-name field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Yeh</div></div></div>
+<div class="field field-name-field-job-title field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">Assistant Professor</div></div></div></a>          </td>
+                  <td class="views-field views-field-field-office-address" >
+            DLC 173B          </td>
+                  <td class="views-field views-field-nothing" >
+            <a href="mailto:tom.yeh@colorado.edu">tom.yeh@colorado.edu</a>
+<div class="field field-name-field-phone field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">303-492-1762</div></div></div>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>  </div>
+                      </div><!-- /#main-content -->
+  	    </div><!-- /#content -->
+
+  	              <div id="sidebar-first" class="grid-4 sidebar pull-8">
+            <div class="sidebar-wrapper">  <div class="region region-sidebar-first">
+    <div id="block-menu-block-1" class=" block block-menu-block sidebar_first-block-0">
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-2">
+  <ul class="menu"><li class="first leaf menu-mlid-1435"><a href="/cs/our-people/advisory-board"><span>Advisory Board</span></a></li>
+<li class="last leaf menu-mlid-1437"><a href="/cs/our-people/committees"><span>Committees</span></a></li>
+</ul></div>
+  </div>
+</div>  </div>
+</div>
+          </div>
+        
+        
+        <div class="clear"></div>
+        
+  	  </div><!-- /#main -->
+
+      
+      <div class="clear"></div>
+    </div><!-- end graphic -->
+    </div><!-- /#main_wrapper -->
+  </div> <!-- /#page -->
+</div> <!-- /#page-wrapper -->
+
+
+
+
+     <div id="footer-wrapper" class="clearfix">
+        <div id="footer" class="container-12 clearfix">
+                        <div class="region region-footer">
+    <div id="block-menu-block-footer-nav" class=" block block-menu-block grid-12 clear-blocks footer-block-0">
+  
+  <div class="content">
+    <div class="menu-block-wrapper menu-block-footer-nav menu-name-menu-footer-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf has-children menu-mlid-1373"><a href="/cs/faculty-staff-resources"><span>Faculty & Staff Resources</span></a></li>
+<li class="leaf has-children menu-mlid-1545"><a href="/cs/news" title="Latest CS News"><span>News & Events</span></a></li>
+<li class="leaf has-children menu-mlid-1375"><a href="/cs/job-opportunities"><span>Job Opportunities</span></a></li>
+<li class="leaf menu-mlid-1371"><a href="/cs/about/alumni"><span>Alumni</span></a></li>
+<li class="leaf menu-mlid-1369"><a href="/cs/about/directions"><span>Directions</span></a></li>
+<li class="leaf menu-mlid-1381"><a href="/cs/contact"><span>Contact</span></a></li>
+<li class="last leaf menu-mlid-1533"><a href="http://www.colorado.edu/engineering/" title=""><span>College of Engineering </span></a></li>
+</ul></div>
+  </div>
+</div><div id="block-block-1" class=" block block-block grid-1 footer-block-1">
+  
+  <div class="content">
+    <h3><a href="http://www.cufund.org/" target="_blank" class="button-orange">Giving</a></h3>
+  </div>
+</div><div id="block-follow-site" class=" block block-follow grid-6 footer-block-2">
+  <h2>Follow us on:</h2>
+  
+  <div class="content">
+    <div class="follow-links clearfix"><span class="follow-link-wrapper follow-link-wrapper-facebook follow-link-no-text"><a href="http://www.facebook.com/CUBoulderCompSci" class="follow-link follow-link-facebook follow-link-site" title="Follow us on Facebook">Facebook</a>
+</span><span class="follow-link-wrapper follow-link-wrapper-twitter follow-link-no-text"><a href="https://twitter.com/cuengineering" class="follow-link follow-link-twitter follow-link-site" title="Follow us on Twitter">Twitter</a>
+</span><span class="follow-link-wrapper follow-link-wrapper-linkedin follow-link-no-text"><a href="http://www.linkedin.com/groups/CU-Engineering-Alumni-University-Colorado-1815525" class="follow-link follow-link-linkedin follow-link-site" title="Follow us on LinkedIn">LinkedIn</a>
+</span><span class="follow-link-wrapper follow-link-wrapper-vimeo follow-link-no-text"><a href="https://vimeo.com/channels/cucs" class="follow-link follow-link-vimeo follow-link-site" title="Follow us on Vimeo">Vimeo</a>
+</span></div>  </div>
+</div>  </div>
+                  </div>
+
+        <div id="cu-info">
+          <div id="cu-info-inner" class="container-12">
+                     <div class="clear"></div>
+          <div id="site-info-wrapper">
+                          <div id="site-info" class="grid-8">
+                   <div class="region region-site-info">
+    <div id="block-cu-site-info-site-info" class=" block block-cu-site-info site_info-block-0">
+  <h2><a href="/cs/">Computer Science</a></h2>
+  
+  <div class="content">
+    <p>College of Engineering and Applied Science<br />University of Colorado Boulder<br />1111 Engineering Drive<br />ECOT 717, 430 UCB<br />Boulder, CO 80309-0430 USA<br />303-492-7514    FAX 303-492-2844<br />GPS Coordinates 40.006387, -105.261582</p>
+  </div>
+</div>  </div>
+              </div> <!-- end site-info -->
+            
+          </div>  <!-- end site-info-wrapper -->
+            <div class="grid-4">
+               
+               <a href="//www.colorado.edu"><img src="http://www.colorado.edu/cs/profiles/cs/themes/computer_s/images/beboulder/be-boulder-white.png" alt="University of Colorado Boulder" class="beboulder"/></a><br />
+               
+               
+            &copy; Regents of the University of Colorado<br />
+            <a href="http://www.colorado.edu/about/privacy-statement">Privacy</a> &bull; <a href="http://www.colorado.edu/about/legal-trademarks">Legal &amp; Trademarks</a>
+            </div> <!-- end grid-4 -->
+            </div> <!-- end cu-info-inner -->
+            </div> <!-- end cu-info -->
+  <script type="text/javascript" src="http://www.colorado.edu/cs/sites/default/files/js/js_D6kFvN9EkMzbcTvVYveTRiDSSBpJMJ8grpKjSB6ZA-8.js"></script>
+</body>
+</html>
