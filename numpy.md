@@ -1,7 +1,7 @@
 ##NumPy
 
 [Numpy](http://www.numpy.org/) is an open source extension module for Python. It is the core library for scientific computing in Python. 
-It adds support to Python for large, multi-dimensional arrays and matrices. Besides that it supplies a large library of high-level mathematical functions to operate on these arrays. Numpy has got massive application in Machine Learning domain where input data is in the form of matrix. Popular machine-learning moudle of python [__scikit learn__](http://scikit-learn.org/stable/) makes use of numpy array extensively.
+It adds support to Python for large, multi-dimensional arrays and matrices. Besides that it supplies a large library of high-level mathematical functions to operate on these arrays. Numpy has got massive application in Machine Learning domain where input data is in the form of matrix. Popular machine-learning module of python [__scikit learn__](http://scikit-learn.org/stable/) makes use of numpy array extensively.
 
 ###Why use NumPy
 Here is a python script which highlights the benefits of numpy array over python list
@@ -49,10 +49,10 @@ Some examples of numpy arrays and their attributes are as follows:
 * `np.zeros((2,2))` generates a 2*2 array of zeroes
 * `rank2Array = np.array([[1,2,3],[4,5,6]])` generates a 2*3 array 
 * `rank2Array.ndim` returns the number of dimensions of a numpy array, 2 in this case
-* `rank2Array.shape`returns the size of array along each dimension
+* `rank2Array.shape` returns the size of array along each dimension
 * `rank2Array.T` return transpose of an array
 * `np.array([ [1,2,3],[4,5,6],[7,8,9],[10,11,12] ]).flatten()` returns all the elements in a single dimensional array
-* `np.arange(12).reshape(4,3)` coverts one array into array of another size
+* `np.arange(12).reshape(4,3)` converts one array into array of another size
 
 
 ###Matrix arithmetic
@@ -72,7 +72,7 @@ Some other useful commands are
 * Matrix sum of each row `np.sum(x,axis=1)`
 * Matrix sum of all element `np.sum(x)`
 
-__Note__ In the examples shown in the [code](https://github.com/joed7/fose_python/blob/master/matrix-numpy.py), all of the matrices have the same shape. That does not necessarily have to be the case. Numpy has a concept of __Broadcasting__ which allows arithmetic operations between two matrix of different shape if they satisfy broadcasting criterion.
+__Note__ In the examples shown in the [code](https://github.com/joed7/fose_python/blob/master/matrix-numpy.py), all of the matrices have the same shape. That does not necessarily have to be the case. Numpy has a concept of __Broadcasting__ which allows arithmetic operations between two matrix of different shape, if they satisfy broadcasting criterion.
 
 
 ###Broadcasting

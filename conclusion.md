@@ -1,6 +1,6 @@
 ##Conclusion
 
-Python is an easy to learn programming language with a very straight-forward syntax and is particularly suited for students with little or no programming experience. It is a widely used programming language which has got massive application in text processing, data science, machine learning using __scikit-learn__, web development, scientific-computing etc. Personally, despite having wokred on Java for the four years, I use Python for most of my coding tasks. I find my code to be more consice than Java and my overall speed to be much faster. 
+Python is an easy to learn programming language with a very straight-forward syntax and is particularly suited for students with little or no programming experience. It is a widely used programming language which has got massive application in text processing, data science, machine learning using __scikit-learn__, web development, scientific-computing etc. Personally, despite having worked on Java for the four years, I use Python for most of my coding tasks. I find my code to be more concise than Java and my overall speed to be much faster. 
 
 
 
