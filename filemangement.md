@@ -1,6 +1,6 @@
 ##File Manipulation in Python
 
-Python offers a very simple and intuitive interface for file I/O. Python provide a function open `open('filename','flag')` which returns a file object which can be used to read/write a file. Some examples
+Python offers a very simple and intuitive interface for File I/O. Python provides a function open `open('filename','flag')` which returns a file object which can be used to read/write a file. Some examples
 
 * `fobj = open('names.txt')` --omitting the flag opens the file in read-only mode
 * `fobj = open('output.txt','w')` -- returns the file object which can be used for writing into the file, creates the file if not already exists

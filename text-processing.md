@@ -9,7 +9,7 @@
 import re
 
 pattern = r'[0-9]+'
-text = ['The current sesaon is 2009-2010','Hello World']
+text = ['The current season is 2009-2010','Hello World']
 
 for i  in text:
     match = re.search(pattern, i)
@@ -23,7 +23,7 @@ for i  in text:
 
 
 ```
-Description of the functions and variable used in the code above
+Description of the functions and variables used in the code above
 
 `search()` : takes the pattern and text to scan, and returns a Match object when the pattern is found. If the pattern is not found, search() returns None.
 
@@ -53,11 +53,12 @@ for i  in text:
 
 ```
 
-Another useful function `re` provides is `group()`.
+Another useful function `re` provides is `group()`.  
+
 `group()`: It allows us to access the matched substring by grouping parentheses, to get the matched substring of the n-th group, we call group() with the argument n: `group(n)`.
 
 ```
-'''Python scrirpt demonstrating group()
+'''Python script demonstrating group()
 '''
 import re
 

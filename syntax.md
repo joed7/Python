@@ -1,7 +1,7 @@
-##Python code syntax
+b##Python code syntax
 
 __Indentation__  
-Python provides no braces to indicate blocks of code for class and function definitions or flow control. Blocks of code are denoted by line indentation, which is rigidly enforced. The number of spaces in the indentation is four spaces or one tab. All statements within the block must be indented the same amount.
+Python provides no braces to indicate blocks of code for class, function definitions or flow control. Blocks of code are denoted by line indentation, which is rigidly enforced. The number of spaces in the indentation is four spaces or one tab. All statements within the block must be indented the same amount.
 
 Here is a visualization for indentation:  
 ![](http://www.python-course.eu/images/blocks.png) 
@@ -33,7 +33,7 @@ else:
 ```    
 
 __Loops__  
-Generally, statements are executed sequentially, However, loops allow us to execute statements in a repeated manners subject to certain conditions. Here is a flowchart illustrating the loop work-flow
+Generally, statements are executed sequentially; However, loops allow us to execute statements in a repeated manner subject to certain conditions. Here is a flowchart illustrating the loop work-flow
 
 ![](http://www.python-course.eu/images/while_loop_1.png)
 
@@ -54,7 +54,7 @@ In the example above, we initialize a variable to zero, then we check the loop c
 for <variable> in <sequence>:
 	<statements>
 ```  	
-  The items of the sequence object are assigned one after the other to the loop variable;And for each item the loop body is executed.  
+  The items of the sequence object are assigned one after the other to the loop variable; And for each item the loop body is executed.  
 
 ```
 #Example of for loop in python
@@ -74,7 +74,7 @@ def functionname( parameters ):
    statements
    return [expression]
 ```   
-Function definition begins with the keyword `def` followed by functionname and an optional parameter list separated by commas. Inside the function body, we write python statements followed by a option return statement.
+Function definition begins with the keyword `def` followed by functionname and an optional parameter list separated by commas. Inside the function body, we write python statements followed by an optional return statement.
 
 ```
 def fac(n):
@@ -90,6 +90,6 @@ def fac(n):
         f=f*(i+1)
     return f
 ```    
-Above is a example of a fuction which computes factorial. It expects one parameter as argument the number n, it does the computation and returns the computed value. 
+Above is an example of a function which computes factorial. It expects one parameter as argument, the number n; it does the computation and returns the computed value. 
 
 [Previous](https://github.com/joed7/fose_python/blob/master/varaible.md)  |  [Home](https://github.com/joed7/Python/blob/master/home.md)  |  [Next](https://github.com/joed7/fose_python/blob/master/modules.md)

@@ -23,7 +23,7 @@ def fib(n):
 ```        
 We can import this module in the python shell or in another python script using the statement `import fibonacci` and call the fib method `fibonacci.fib(10)`. While importing a module, the name of the namespace can be changed, for e.g. the above statements can be changed to `import fibonacci as fb` and `fb.fib(10)`.
 
-Consider another scenario where we have a bunch of constants we have to use throughout our project. Rather than defining them in each file, we can create a module `proj-constants.py` and import the module in the file where we need the constants, via `import proj-constatnts` and `print proj-constatnts.conference`.
+Consider another scenario where we have a bunch of constants we have to use throughout our project. Rather than defining them in each file, we can create a module `proj-constants.py` and import the module in the file where we need the constants, via `import proj-constantts` and `print proj-constants.conference`.
 
 ```
 '''
@@ -41,9 +41,9 @@ cups = 'Stanley Cups'.lower()
 
 ```
 
-Python offer an array of in-built modules, some of the most useful ones are as follows:
+Python offers an array of in-built modules, some of the most useful ones are as follows:
 
-* `math` : provides access mathematical  functions like sin, cos, factorial, ciel etc.
+* `math` : provides access mathematical functions like sin, cos, factorial etc.
 * `re`   : provides support for regular expressions
 * `random`: generates pseudo-random numbers with various common distributions.
 * `os`   : provides os routines across various operating systems 
@@ -55,7 +55,7 @@ In order to view help for a python module, `help('moduleName')` can be used in t
 
 __Installing External Module Using Pip__
 
-Pip is a tool for installing or managing Python packages. According to wikipaedia
+Pip is a tool for installing or managing Python packages. According to wikipedia
 
 `pip is a recursive acronym that can stand for either "Pip Installs Packages" or "Pip Installs Python"`
 
