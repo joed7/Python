@@ -1,4 +1,4 @@
-#Python code syntax
+##Python code syntax
 
 __Indentation__  
 Python provides no braces to indicate blocks of code for class and function definitions or flow control. Blocks of code are denoted by line indentation, which is rigidly enforced. The number of spaces in the indentation is four spaces or one tab. All statements within the block must be indented the same amount.

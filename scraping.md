@@ -1,4 +1,4 @@
-#Extracting data from the web using Python
+##Extracting data from the web using Python
 
 Python is often used to scrape data on the web. Consider a wikipedia page with a bunch of html tables in various categories. Extracting the data using regular expressions in shell, perl can be extremely difficult, However, python makes it a lot of easier through modules like [__requests__](http://docs.python-requests.org/en/latest/) and [__Beautiful Soup__](http://www.crummy.com/software/BeautifulSoup/).
 

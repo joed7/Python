@@ -1,4 +1,4 @@
-#NumPy
+##NumPy
 
 [Numpy](http://www.numpy.org/) is an open source extension module for Python. It is the core library for scientific computing in Python. 
 It adds support to Python for large, multi-dimensional arrays and matrices. Besides that it supplies a large library of high-level mathematical functions to operate on these arrays. Numpy has got massive application in Machine Learning domain where input data is in the form of matrix. Popular machine-learning moudle of python [__scikit learn__](http://scikit-learn.org/stable/) makes use of numpy array extensively.
